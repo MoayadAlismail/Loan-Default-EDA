@@ -30,3 +30,7 @@ Only 8.1% of applicants defaulted (TARGET=1), so the dataset is heavily skewed. 
 - **Credit-to-income ratio**: defaulters tended to borrow more relative to their income, which makes it a useful signal even when other variables look fine.
 
 No single variable tells the full story, but together they give a much clearer picture of default risk!
+
+## Authors
+Moayad Alismail (maa9566)
+Rowaid Baamer (rab9712)
